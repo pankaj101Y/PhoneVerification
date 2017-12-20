@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MobileVerificationSystem</string>
+    <string name="countriesCodes">countriesCodes.json</string>
+    <string name="cc_array">country_codes_array</string>
+    <string name="select_country">Select your country</string>
+    <string name="enter_mobile_no">Enter Mobile No</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="valid_phone_request">Please provide valid phone number</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="otp_next">Verify</string>
+    <string name="sendingOTP">Sending OTP…</string>
+    <string name="verifyingOTPMessage">Sit Back While We Verify Your OTP</string>
+    <string name="verifyingOTPTitle">Verifying</string>
+    <string name="errorTitle">Oops!</string>
+    <string name="errorMessage">Something Went Wrong. Please Try Again</string>
+    <string name="OTPExpiredTitle">OTP Expired</string>
+    <string name="OTPExpiredMessage">This OTP Has Expired. Please Click Resend To Send New OTP.</string>
+    <string name="OTPInvalidTitle">Invalid OTP</string>
+    <string name="OTPInvalidMessage">This Is Invalid OTP. Please Provide Correct OTP.</string>
+    <string name="OTPVerifiedTitle">Congratulations</string>
+    <string name="OTPVerifiedMessage">OTP Verified</string>
+    <string name="OTPSendErrPos">Back</string>
+    <string name="OTPErrPos">Retry</string>
+    <string name="OTPSExpiredPos">Resend OTP</string>
+    <string name="OTPInvalidPos">Retry</string>
+    <string name="OTPVerifiedPos">OK</string>
+
+</resources>
